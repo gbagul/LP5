@@ -1,0 +1,16 @@
+For Python 
+
+cd desktop/
+touch pract1.py
+gedit pract1.py
+python3 pract1.py	
+
+For C++
+
+g++ --version
+sudo apt install build-essential   #if not installed 
+cd desktop/
+touch hello.cpp
+g++ hello.cpp
+./a.out
+
